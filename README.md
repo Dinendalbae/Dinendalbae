@@ -1,5 +1,5 @@
 # Hi there 👋
-![]![Screenshot_2](https://github.com/Dinendalbae/Dinendalbae/assets/69736205/142ceb84-3b62-4f76-89c1-e2b75921c59d)
+![Screenshot_2](https://github.com/Dinendalbae/Dinendalbae/assets/69736205/142ceb84-3b62-4f76-89c1-e2b75921c59d)
 
 
 
