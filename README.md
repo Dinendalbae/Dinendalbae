@@ -1,5 +1,5 @@
 # Hi there 👋
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQt6tj-PTsK-SpRsQBt0B7vMWMlRSmwohNByxeSLPcSjUlcc8k)
+![]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQt6tj-PTsK-SpRsQBt0B7vMWMlRSmwohNByxeSLPcSjUlcc8k](https://intelcorp.scene7.com/is/image/intelcorp/adobestock-294794307?$480.270$))
 
 
 
