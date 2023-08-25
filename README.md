@@ -1,5 +1,5 @@
 # Hi there 👋
-![]([[https://pbs.twimg.com/profile_banners/883407398337212416/1595868115/1080x360](https://intelcorp.scene7.com/is/image/intelcorp/adobestock-294794307?$480.270$)](https://web.altair.com/hs-fs/hubfs/Data%20Science%20for%20Engineers%20Deployment%20and%20Visualization%20Webinar%20.png?width=810&name=Data%20Science%20for%20Engineers%20Deployment%20and%20Visualization%20Webinar%20.png))
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQt6tj-PTsK-SpRsQBt0B7vMWMlRSmwohNByxeSLPcSjUlcc8k)
 
 
 
